@@ -68,7 +68,7 @@ The PENELOPE simulation data are provided as Excel files (`.xlsx`), one per mate
 
 Each file contains FEPE values at 16 energies (46.5–1764.5 keV) for all simulated sample heights.
 
-The XCOM mass attenuation coefficient table (`XCOM_mu_rho_table.csv`) is also required and included in the data.
+The XCOM mass attenuation coefficient table (`XCOM_mu_rho_table.csv`) is also required and included in the data. Elemental mass attenuation coefficients were obtained from the [NIST XCOM database](https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html).
 
 ## Configuration
 
