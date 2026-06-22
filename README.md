@@ -85,6 +85,13 @@ Key parameters can be modified in the `CONFIG` dictionary at the top of each tra
 - **Well-type**: Canberra GCW4023 (40% relative efficiency) with cylindrical polypropylene vial (Ø 11.5 mm × 51 mm). Characterised in [Guerra et al. (2018), NIMA 908, 206–214](https://doi.org/10.1016/j.nima.2018.08.048).
 - **XtRa planar**: Canberra GX3518 (38% relative efficiency) with truncated-cone polypropylene beaker (Ø 47.9–56 mm × 72.9 mm). Characterised in [Guerra et al. (2018), NIMA 880, 67–74](https://doi.org/10.1016/j.nima.2017.10.076).
 
+## Associated paper
+
+J. G. Guerra, *An artificial neural network with analytical self-attenuation correction for rapid efficiency calibration of HPGe detectors*, **Scientific Reports**, accepted for publication (2026). https://doi.org/10.1038/s41598-026-58894-0
+
 ## License
 
-MIT
+The source code in this repository is released under the MIT License.
+
+The associated article is subject to its own publishing licence and is not covered by the MIT License.
+
